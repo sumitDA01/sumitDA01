@@ -2,6 +2,7 @@
  <br/>
  
  <div width="50%" align="center"><img align="center" height="auto" width="50%" alt="Github" src="https://chools.in/wp-content/uploads/data-science-2-1.gif" /></div>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitDA01&label=Profile%20views&color=0e75b6&style=flat" alt="sumitDA01" /> </p>
 
 <h3> &nbsp;About Me </h3>  
 
