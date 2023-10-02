@@ -1,7 +1,8 @@
  <h2> Hey there! 👋 I'm Sumit.</h2>
  <br/>
  
- <div width="50%" align="center"><img align="center" height="auto" width="50%" alt="Github" src="https://assets.materialup.com/uploads/cf947cf0-272a-452a-bb93-a8b7b7bdea95/preview.gif" /></div>
+ <div width="50%" align="center"><img align="center" height="auto" width="50%" alt="Github" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+ </div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitDA01&label=Profile%20views&color=0e75b6&style=flat" alt="sumitDA01" /> </p>
 
 <h3> &nbsp;About Me </h3>  
