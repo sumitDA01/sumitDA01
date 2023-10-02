@@ -9,6 +9,7 @@
 - 💼 &nbsp; Proficient in Adv. Excel, Adv. Sql, data manupulation and business insights.
 - 💬 &nbsp; Ask me about anything related to excel, sql, power BI, guesstimates, pandas.
 - ⚡ Fun fact: As my python is good so my physique.
+- ![logo](https://github.com/sumitDA01/sumitDA01/commits?author=sumitDA01)
 
 ## Skill Inventory
 
