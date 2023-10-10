@@ -10,7 +10,7 @@
 - 🙂 &nbsp; Exploring new technologies and ML (machine learning).
 - 💼 &nbsp; Proficient in Adv. Excel, Adv. Sql, data manupulation and business insights.
 - 💬 &nbsp; Ask me about anything related to excel, sql, power BI, guesstimates, pandas.
-- ⚡ Fun fact: As my python is good so my physique.
+- ⚡ Fun fact: As my SQL is good so my physique.
 
 
 ## Skill Inventory
