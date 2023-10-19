@@ -1,6 +1,11 @@
- <h2> Hey there! 👋 I'm Sumit.</h2>
+ <h2> Welcome to my Profile.</h2>
  <br/>
- 
+
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self sumit 👦🏽; I am a Data Analyst 👨🏻‍💻;Traveller 🌏;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
+
  <div width="50%" align="center"><img align="center" height="auto" width="50%" alt="Github" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
  </div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitDA01&label=Profile%20views&color=0e75b6&style=flat" alt="sumitDA01" /> </p>
