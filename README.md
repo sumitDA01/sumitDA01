@@ -14,7 +14,7 @@
 
 - 🙂 &nbsp; Exploring new technologies and ML (machine learning).
 - 💼 &nbsp; Proficient in Adv. Excel, Adv. Sql, data manupulation and business insights.
-- 💬 &nbsp; Ask me about anything related to excel, sql, power BI, guesstimates, pandas.
+- 💬 &nbsp; Feel free to ask any specific questions or challenges related to Excel, SQL, Power BI, guesstimates, or pandas that you'd like to dive into.
 - ⚡ Fun fact: As my SQL is good so my physique.
 
 
